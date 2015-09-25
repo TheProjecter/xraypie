@@ -1,0 +1,1 @@
+This project is a collection of SPCs (Smart Pieces of Code) of some use to a protein crystallographer.  Most are written in Python for the sake of cross-platform compatibility.
